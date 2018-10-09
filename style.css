@@ -1,0 +1,41 @@
+h1 {
+    font-family: 'Gaegu', cursive;
+    font-size: 40pt;
+    margin: 30px;
+    text-align: center;
+    text-decoration: none;
+    text-decoration-line: none
+    }
+a {
+    color: black;
+    font-family: 'Gaegu', cursive;
+    text-decoration: none;
+    }
+    
+a:hover {
+    color: #8796D8;
+    font-family: 'Gaegu', cursive;
+    text-decoration: none;
+    }
+.column {
+    float: left;
+    width: 33.33%;
+    }
+h4 {
+    color:black;
+    font-family: 'Gaegu', cursive;
+    font-size: 20pt;
+    margin: 30px;
+    text-align: center;
+    text-decoration: none;
+    }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 350px;
+    }
+#logo {
+    width: auto;
+}
